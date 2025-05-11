@@ -2,3 +2,4 @@ init
 change c2
 feature1 c3
 test c7
+feature1 c12
